@@ -47,6 +47,12 @@ body {
       left: 0;
       min-height: 300px; }
 
+.modal-content {
+  background-color: #512DA8; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
 #carouselButton {
   right: 0px;
   position: absolute;
